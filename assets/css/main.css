@@ -1435,3 +1435,11 @@
     text-align: center;
     font-size: 1.3rem;
 }
+.landing {
+    margin-top: 16px;
+    text-align: center;
+    display: block;
+}
+.landing-link {
+   font-size: 1.3rem;
+}
